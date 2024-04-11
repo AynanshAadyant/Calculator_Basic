@@ -1,0 +1,23 @@
+*
+{
+    font-size: large;
+}
+
+.btn
+{
+    width: 22vw;
+    height: 10vh;
+    background-color: rgb(50,50,50);
+    color: white;
+
+}
+
+.operator
+{
+    background-color: black;
+}
+
+.result 
+{
+    background-color: rgb(255, 95, 31);
+}

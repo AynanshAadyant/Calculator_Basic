@@ -1,0 +1,17 @@
+#heading
+{
+    color:white;
+}
+
+body
+{
+    background-color: rgb(80,80,80);
+}
+
+#display
+{
+    background-color: rgb(50,50,50);
+    height: 10vh;
+    width: 70vw;
+    color:white;
+}
