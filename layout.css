@@ -15,3 +15,20 @@ body
     width: 70vw;
     color:white;
 }
+
+.promo > ul
+{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 4vh;
+}
+
+.promo > ul > li >a
+{
+    color: rgb(10,10,10);
+    font-size: 1.2em;
+    
+    
+}
